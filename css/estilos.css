@@ -1,0 +1,29 @@
+.blog-body {
+background: url(../img/fondo.jpg);
+background-attachment: fixed;
+background-repeat: round;
+width: 100%;
+height: 100%;
+}
+
+.row {
+  background-color: rgba(8, 45, 94, 0.20);
+  min-height: 15%;
+  color: #fff;
+}
+
+#titulo label{
+  margin: 0;
+}
+
+img{
+  max-height: 380px;
+}
+
+.lema-blog {
+  color: #fff;
+}
+
+.favoritos {
+  padding: 10px;
+}
